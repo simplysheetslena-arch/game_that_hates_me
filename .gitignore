@@ -1,0 +1,14 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editors
+.vscode/*.log
+.idea/
+
+# Local OS files
+.DS_Store
+Thumbs.db
